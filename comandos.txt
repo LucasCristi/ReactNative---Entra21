@@ -1,0 +1,7 @@
+npx create-expo-app 
+npm run web - vai dar erro, instalar o que aparecer
+
+instalar STACK para navegação
+npm install @react-navigation/native @react-navigation/native-stack
+outro
+npx expo install react-native-screens react-native-safe-area-context
